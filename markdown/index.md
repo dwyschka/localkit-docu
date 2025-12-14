@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Localkit Documentation"
+  name: "Localkit"
   text: "Localkit Documentation"
   tagline: My great project tagline
   actions:
