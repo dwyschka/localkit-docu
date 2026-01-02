@@ -41,7 +41,7 @@ export default defineConfig({
                 text: 'Links',
                 items: [
                     {text: 'Localkit', link: 'https://github.com/dwyschka/localkit'},
-                    {text: 'Localkit-Broker', link: 'https://github.com/dwyschka/localkit.broker'},
+                    {text: 'Localkit-Broker', link: 'https://github.com/dwyschka/localkit-broker'},
                     {text: 'Discord', link: 'https://discord.gg/pprJVBsESd'},
                 ]
             }
