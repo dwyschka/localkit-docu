@@ -2,6 +2,9 @@
 
 ![Petkit Pura Max](../public/pura-max.png)
 
+## Platform
+ESP32
+
 ## Available Firmware
 :::info a modified version of the firmware is used, the downgrade is supported.
 :::
