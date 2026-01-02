@@ -19,6 +19,6 @@ api.eu-pet.com => 10.10.46.105
 
 Every device on Localkit needs to have a subdomain. Enter your desired subdomain and add it to your local DNS.
 
-![dns-subdomain.png](../dns-subdomain.png)
+![dns-subdomain.png](../public/dns-subdomain.png)
 
 `pura.iot-as-mqtt.eu-central-1.aliyuncs.com` needs to be rewritten to our IP from localkit-broker
