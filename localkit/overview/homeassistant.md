@@ -13,6 +13,13 @@ HOMEASSISTANT_CLIENT_ID=localkit
 
 Replace IP and Port with your MQTT-Server.
 
+If your MQTT-Broker requires authentication, add following variables too:
+````
+HOMEASSISTANT_AUTH_USERNAME=USERNAME  
+HOMEASSISTANT_AUTH_PASSWORD=PASSWORD
+````
+
+
 ## Enable
 If your Devices are not connected to Home Assistant, ensure the `localkit-homeassistant` service is enabled and running:
 

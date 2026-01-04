@@ -5,6 +5,10 @@ We need to Deploy 2 Containers:
 - [Localkit](https://github.com/dwyschka/localkit) 
 - [Localkit-Broker](https://github.com/dwyschka/localkit-broker)
 
+We need 2 different IP-Addresses for the Containers, the following docker-compose.yml shows a macvlan config.
+The "eth0" network, is the macvlan network, u need to create this network before.
+
+
 ### Pull Container
 
 ```bash
